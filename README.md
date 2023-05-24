@@ -1,1 +1,1 @@
-# Test
+CREATE EXTENSION postgis;
